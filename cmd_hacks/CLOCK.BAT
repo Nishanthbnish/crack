@@ -1,0 +1,14 @@
+@ECHO OFF
+TITTLE DOS BASED 
+DATE AND CLOCK 
+COLOR.B
+CLS
+:CLOCK
+CLS
+ECHO           CURRENT
+DATE:%DATE%
+ECHO..............
+ECHO................
+ECHO             CURRENT
+TIME:%TIME%
+GOTO CLOCK
