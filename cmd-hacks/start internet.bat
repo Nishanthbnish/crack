@@ -1,0 +1,1 @@
+@echo off ipconfig/renew
